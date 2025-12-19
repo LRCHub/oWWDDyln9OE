@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Oh！Darling (＝LOVE アリーナツアー2024)",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-19T17:33:08.493279Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oh! Darling (=LOVE zenkokutua- zenbunaisyo yokohama ari-na)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_Oh!_Darling_(=LOVE_zenkokutua-_zenbunaisyo_yokohama_ari-na)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oh! Darling",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/02_Oh!_Darling_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oh! Darling",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Oh!_Darling_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oh! Darling",
+      "artist": "The Cooltrane Quartet",
+      "has_synced": true,
+      "path": "select/04_Oh!_Darling_The_Cooltrane_Quartet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oh Darling",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/05_Oh_Darling_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oh! Darling",
+      "artist": "Florence + The Machine",
+      "has_synced": false,
+      "path": "select/06_Oh!_Darling_Florence_+_The_Machine.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oh Darling",
+      "artist": "Unknown Brain",
+      "has_synced": true,
+      "path": "select/07_Oh_Darling_Unknown_Brain.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oh! Darling (2019 Mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Oh!_Darling_(2019_Mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oh! Darling - Take 4",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Oh!_Darling_-_Take_4_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oh! Darling (take 4)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Oh!_Darling_(take_4)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oh Darling",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/11_Oh_Darling_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oh! Darling",
+      "artist": "George Benson",
+      "has_synced": false,
+      "path": "select/12_Oh!_Darling_George_Benson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oh! Darling",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/13_Oh!_Darling_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oh Darling",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/14_Oh_Darling_Supertramp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Oh!Darling",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_Oh!Darling_=LOVE.txt"
+    }
+  ]
+}
